@@ -5,7 +5,7 @@
 ---
 - [github](https://github.com/Hamifthi/)
 - [PNU_3991_AR](https://github.com/Hamifthi/PNU_3991_AR)
-- [resume](https://hamifthi.github.io/resume/Hamed_Fathi.pdf)
+- [resume](https://hamifthi.github.io/resume/hamed_fathi.pdf)
 - [SOP](https://hamifthi.github.io/sop/Hamed_Fathi_SOP.pdf) 
 - [javascript Certificate](JavaScript.pdf)
 

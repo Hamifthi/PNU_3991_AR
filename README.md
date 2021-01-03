@@ -3,8 +3,8 @@
 ### حامد فتحی
  
 ---
-- [github](https://github.com/Hamifthi/)
 - [PNU_3991_AR](https://github.com/Hamifthi/PNU_3991_AR)
+- [github](https://github.com/Hamifthi/)
 - [resume](https://hamifthi.github.io/resume/hamed_fathi.pdf)
 - [SOP](https://hamifthi.github.io/sop/Hamed_Fathi_SOP.pdf) 
 - [javascript Certificate](JavaScript.pdf)
@@ -13,7 +13,7 @@
 
 ## Winter Semester Courses 1399/2020
 
-## دروس کارشناسی
+## دروس جبرانی کارشناسی
 
 [1115157_01   نظريه زبانهاوماشين ها ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
 <br>

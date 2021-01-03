@@ -15,7 +15,7 @@
 
 ## دروس جبرانی کارشناسی
 
-[1115157_01   نظريه زبانهاوماشين ها ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
+[1115157_01   نظريه زبان ها و ماشين ها ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
 <br>
 
 ------------------
@@ -31,8 +31,8 @@
   </tr>
   <tr>
     <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظريه زبانهاوماشين ها 02-1115157</a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"> نظريه زبان ها و ماشين ها 02-1115157</a></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" > نظريه زبان ها و ماشين ها 01-1115157</a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>

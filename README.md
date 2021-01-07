@@ -57,6 +57,7 @@
     <th ></th>
     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"> نظريه زبان ها و ماشين ها 02-1115157</a></th>
     <th></th>
+    <th></th>
     <th>شنبه</th>
   </tr>
 </table>

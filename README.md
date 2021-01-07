@@ -13,7 +13,7 @@
 - [Patchwork Git](Screenshot_20201225_205436.jpg)
 - [Latex project](https://github.com/Hamifthi/latex)
 - [presentation](https://aparat.com/v/DbB5s)
-
+- [2-problem-solution-presentation](https://aparat.com/v/Aq5MD)
 ------------------
 
 ## Winter Semester Courses 1399/2020

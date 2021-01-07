@@ -6,14 +6,14 @@
  
 ---
 - [PNU_3991_AR](https://github.com/Hamifthi/PNU_3991_AR)
-- [github](https://github.com/Hamifthi/)
-- [resume](https://hamifthi.github.io/resume/hamed_fathi.pdf)
+- [Github](https://github.com/Hamifthi/)
+- [Resume](https://hamifthi.github.io/resume/hamed_fathi.pdf)
 - [SOP](https://hamifthi.github.io/sop/Hamed_Fathi_SOP.pdf) 
-- [javascript Certificate](JavaScript.pdf)
+- [Javascript Certificate](JavaScript.pdf)
 - [Patchwork Git](Screenshot_20201225_205436.jpg)
-- [Latex project](https://github.com/Hamifthi/latex)
-- [presentation](https://aparat.com/v/DbB5s)
-- [2-problem-solution-presentation](https://aparat.com/v/Aq5MD)
+- [Latex Project](https://github.com/Hamifthi/latex)
+- [Presentation](https://aparat.com/v/DbB5s)
+- [Problem-solution-presentation](https://aparat.com/v/Aq5MD)
 ------------------
 
 ## Winter Semester Courses 1399/2020

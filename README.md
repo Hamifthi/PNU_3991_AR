@@ -42,6 +42,7 @@
     1. [_UID-14_ فرید رجبی دولت آبادی]( https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/1322110_01/14_%D9%81%D8%B1%D9%8A%D8%AF%20%D8%B1%D8%AC%D8%A8%D9%8A%20%D8%AF%D9%88%D9%84%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%D9%8A)
 
 ------------------
+## روز و ساعت ارائه دروس
 
 <table style="width:100%">
   <tr>

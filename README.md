@@ -14,6 +14,17 @@
 - [Latex Project](https://github.com/Hamifthi/latex)
 - [Presentation](https://aparat.com/v/DbB5s)
 - [Problem-solution-presentation](https://aparat.com/v/Aq5MD)
+
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Hamifthi/PNU_3991_AR/blob/main/_General/HF_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Hamifthi/PNU_3991_AR/blob/main/_General/HF_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی نظریه زبان ها و ماشین ها](https://github.com/Hamifthi/PNU_3991_AR/blob/main/_General/HF_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
 ------------------
 
 ## Winter Semester Courses 1399/2020
